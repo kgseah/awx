@@ -4,5 +4,5 @@
 
   tasks:
 
-  - name: Hello World2!
+  - name: Hello kuen gnee!
     shell: echo "Hi! Tower is working."
